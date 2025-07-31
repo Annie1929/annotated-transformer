@@ -27,3 +27,4 @@ en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_
 
 # === Jupyter (optional but useful for notebook work) ===
 ipykernel
+ipywidgets
